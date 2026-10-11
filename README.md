@@ -168,7 +168,11 @@
 - Secure a **2027 PFE / final-year internship**
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://github.com/assiakh04/assiakh04/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 ## 🤝 Let’s Connect
 
 <p align="center">
