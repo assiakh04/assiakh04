@@ -179,8 +179,8 @@
   <a href="mailto:assiakharbouch44@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-F8C8DC?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://www.linkedin.com/in/assia-kharbouch-975123322?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/assia-kharbouch-975123322">
+  <img src="https://img.shields.io/badge/LinkedIn-BDE0FE?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
